@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### I am Vedant Kadam, A WebDevelopment Enthusiast and Software Developer.
 
-* 🔭 I love building websites from scratch and automating games.
+* 🔭 I love building websites from scratch .
 * 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant-kadam-412021204/)
 * ⚡ Skills:  Python, Java, Javascript, Django, Flask, Responsive Web design .
 
