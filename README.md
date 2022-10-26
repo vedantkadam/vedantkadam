@@ -7,18 +7,13 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
-<p align="center">
+<p align = "center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/vedant-kadam-412021204/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/vedantkadam">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://portfolio-website-131e8.web.app/">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/vedantkadam541/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      </div>
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vedantkadam)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vedant-kadam-412021204/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vedantkadam541/)
+
 
 </p>
 
@@ -27,7 +22,7 @@
 
 * ⚡ Technical Head of Computer Society of India (SFIT)
 * ⚡ Joint Technical Head of Computer Society of India (SFIT)
-
+	
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left"> </h3>
