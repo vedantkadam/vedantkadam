@@ -5,9 +5,22 @@
 * 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant-kadam-412021204/)
 * Portfolio [Website](https://portfolio-website-131e8.web.app/)
 
-### Connect with me on:
-<a href="https://github.com/vedantkadam"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/github1.png" width="60px" /></a>
-<a href="https://www.linkedin.com/in/vedant-kadam-412021204/"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/linkedin.png" width="60px"/></a>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/vedant-kadam-412021204/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/vedantkadam">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://portfolio-website-131e8.web.app/">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/vedantkadam541/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+
+</p>
 
 
 ### Experience
