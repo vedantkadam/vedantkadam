@@ -3,7 +3,7 @@
 
 * 🔭 I love building websites from scratch .
 * 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant-kadam-412021204/)
-* Portfolio [Website](https://portfolio-website-131e8.web.app/)
+* Find Out More About Me [Know More](https://vedant-kadam-portfolio.herokuapp.com/)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
