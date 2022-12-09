@@ -3,13 +3,13 @@
 
 * 🔭 I love building websites from scratch .
 * 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant-kadam-412021204/)
-* Find Out More About Me [Know More](https://vedant-kadam-portfolio.herokuapp.com/)
+* Find Out More About Me [Know More](https://vedant-kadam.web.app/)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://vedant-kadam-portfolio.herokuapp.com/)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://vedant-kadam.web.app/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vedantkadam)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vedant-kadam-412021204/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vedantkadam541/)
