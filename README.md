@@ -13,10 +13,8 @@
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vedantkadam)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vedant-kadam-412021204/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vedantkadam541/)
-
-
 </p>
-
+<h1></h1>
 
 ### Experience
 
@@ -24,6 +22,7 @@
 * ⚡ Joint Technical Head of Computer Society of India (SFIT)
 * ⚡ Data Science and Business Analytics Intern at Sparks Foundation
 * ⚡ Full Stack Web Development Intern at Exposys Data Labs
+<h1></h1>	
 	
 
 <h3 align="left">Languages and Tools:</h3>
