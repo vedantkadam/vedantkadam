@@ -18,10 +18,11 @@
 
 ### Experience
 
-* ⚡ Technical Head of Computer Society of India (SFIT)
-* ⚡ Joint Technical Head of Computer Society of India (SFIT)
 * ⚡ Data Science and Business Analytics Intern at Sparks Foundation
 * ⚡ Full Stack Web Development Intern at Exposys Data Labs
+* ⚡ Technical Head of Computer Society of India (SFIT)
+* ⚡ Joint Technical Head of Computer Society of India (SFIT)
+
 <h1></h1>	
 	
 
