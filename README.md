@@ -1,7 +1,7 @@
 ### Hi there 👋 
-### I am Vedant Kadam, A WebDevelopment Enthusiast and Software Developer.
+### I am Vedant Kadam, A Data Science Enthusiast and Software Developer.
 
-* 🔭 I love building websites from scratch .
+* 🔭 Undergraduate IT Student .
 * 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant-kadam-412021204/)
 * Find Out More About Me [Know More](https://vedant-kadam.web.app/)
 
