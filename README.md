@@ -20,7 +20,7 @@
 <h1></h1>
 
 ### Experience
-
+* ⚡ Data Science Intern at CodeClause
 * ⚡ Data Science and Business Analytics Intern at Sparks Foundation
 * ⚡ Full Stack Web Development Intern at Exposys Data Labs
 * ⚡ Technical Head of Computer Society of India (SFIT)
