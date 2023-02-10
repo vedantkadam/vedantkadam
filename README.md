@@ -1,4 +1,6 @@
-### Hi there 👋 
+# Hello there 👋 
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/83024561/218009707-54421c29-0e99-440d-8c77-09468d75a7ab.png">
+
 ### I am Vedant Kadam, A Data Science Enthusiast and Software Developer.
 
 * 🔭 Undergraduate IT Student .
@@ -56,7 +58,4 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkadam&theme=tokyonight&langs_count=10&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vedantkadam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-
- ### ✍️ A Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
