@@ -58,7 +58,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkadam&theme=tokyonight&langs_count=10&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vedantkadam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-###Snake Eating My Contributions
+### Snake Eating My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vedantkadam/vedantkadam/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vedantkadam/vedantkadam/blob/output/github-contribution-grid-snake-dark.svg">
