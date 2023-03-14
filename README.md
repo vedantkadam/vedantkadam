@@ -58,17 +58,4 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkadam&theme=tokyonight&langs_count=10&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vedantkadam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-<hr>
 
-<hr>
-<div align="center">
-README.md last auto generated Tue Mar 14 15:45:04 2023
-<br>
-<a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
-</div>
-<hr>
-<div align="center">
-README.md last auto generated Tue Mar 14 15:45:47 2023
-<br>
-<a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
-</div>
