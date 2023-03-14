@@ -9,15 +9,7 @@ def update_footer():
     footer = Path('../FOOTER.md').read_text()
     return footer.format(timestamp=timestamp)
 
-def update_readme_medium_posts(readme_base, join_on):
-    posts = []
-    for item in d.entries:
-        if item.get('tags'):
-            posts.append(f" - [{item['title']}]({item['link']})")
-    posts_joined = '\n'.join(posts)
-    return readme_base[:readme_base.find(rss_title)] + f"{join_on}\n{posts_joined}"
-
 readme = Path('../README.md').read_text()
-updated_readme = update_readme_medium_posts(readme)
+
 with open('../README.md', "w+") as f:
-    f.write(updated_readme + update_footer())
+    f.write(update_footer())
