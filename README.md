@@ -60,10 +60,11 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkadam&theme=tokyonight&langs_count=10&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vedantkadam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 ### Check out my Medium Post
+ - [Lung Cancer Detection using Convolutional Neural Networks](https://medium.com/@vedantkadam541/lung-cancer-detection-using-convolutional-neural-networks-34ab071b5f59?source=rss-c2859e5586f3------2)
  - [Awesome resources to Kickstart your portfolio Website.](https://medium.com/@vedantkadam541/awesome-resources-to-kickstart-your-portfolio-website-28ca56039464?source=rss-c2859e5586f3------2)
  - [Why Git/Github is a must for every developer](https://medium.com/@vedantkadam541/my-first-feeed-f68cbb0f5d3f?source=rss-c2859e5586f3------2)<hr>
 <div align="center">
-README.md last auto generated Wed Mar 15 20:28:27 2023
+README.md last auto generated Thu Mar 16 06:41:23 2023
 <br>
 <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
 </div>
