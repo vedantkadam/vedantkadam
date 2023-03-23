@@ -16,7 +16,10 @@
   <a href="https://www.linkedin.com/in/vedant-kadam-412021204/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/vedantkadam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://medium.com/@vedantkadam541"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://vedant-kadam.web.app/"><img src="https://komarev.com/ghpvc/?username=vedantkadam&style=for-the-badge" /></a>
+
 </p>
+
 
 
 
@@ -67,5 +70,5 @@
 <div align="center">
 README.md last auto generated Thu Mar 23 05:43:25 2023
 <br>
-<a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a>
+<!-- <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">Learn to automate you own README here!</a> -->
 </div>
