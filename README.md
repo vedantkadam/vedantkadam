@@ -63,6 +63,7 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkadam&theme=tokyonight&langs_count=10&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vedantkadam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 ### Check out my Medium Post
+ - [My BNP Paribas Interview Experience](https://medium.com/@vedantkadam541/my-bnp-paribas-interview-experience-b17f008e4a95?source=rss-c2859e5586f3------2)
  - [Beautify your Windows terminal using Nerd Fonts and Oh-My-Posh](https://medium.com/@vedantkadam541/beautify-your-windows-terminal-using-nerd-fonts-and-oh-my-posh-4f4393f097?source=rss-c2859e5586f3------2)
  - [Rainwater Detection System using NodeMCU 8266 ️⛈️](https://medium.com/@vedantkadam541/rainwater-detection-system-using-nodemcu-8266-%EF%B8%8F-%EF%B8%8F-f46ea518b779?source=rss-c2859e5586f3------2)
  - [“Streamlit” a quick way to build data Science Projects.](https://medium.com/@vedantkadam541/streamlit-a-quick-way-to-build-data-science-projects-cefc90620a10?source=rss-c2859e5586f3------2)
@@ -70,6 +71,6 @@
  - [Awesome resources to Kickstart your portfolio Website.](https://bootcamp.uxdesign.cc/awesome-resources-to-kickstart-your-portfolio-website-28ca56039464?source=rss-c2859e5586f3------2)
  - [Why Git/Github is a must for every developer](https://medium.com/@vedantkadam541/my-first-feeed-f68cbb0f5d3f?source=rss-c2859e5586f3------2)<hr>
 <div align="center">
-README.md last auto generated Tue Jan  9 05:41:34 2024
+README.md last auto generated Wed Mar 20 13:39:36 2024
 <br>
 </div>
