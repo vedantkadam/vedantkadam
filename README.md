@@ -3,15 +3,15 @@
 
 ### I am Vedant Kadam, A Data Science Enthusiast and Software Developer.
 
-* 🔭 Undergraduate IT Student .
+<!---               🔭 Undergraduate IT Student .
 * 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/vedant-kadam-412021204/)
-* Find Out More About Me [Know More](https://vedant-kadam.web.app/)
+* Find Out More About Me [Know More](https://vedant-kadam.web.app/)  -->
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
 <p align="center">
   <a href="vedantkadam541@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vedant-kadam.web.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+ <!---  <a href="https://vedant-kadam.web.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>  -->
   <a href="https://www.linkedin.com/in/vedant-kadam-412021204/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/vedantkadam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://medium.com/@vedantkadam541"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -61,6 +61,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkadam&theme=tokyonight&langs_count=10&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vedantkadam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
+  <!---
 ### Check out my Medium Post
  - [My BNP Paribas Interview Experience](https://medium.com/@vedantkadam541/my-bnp-paribas-interview-experience-b17f008e4a95?source=rss-c2859e5586f3------2)
  - [Beautify your Windows terminal using Nerd Fonts and Oh-My-Posh](https://medium.com/@vedantkadam541/beautify-your-windows-terminal-using-nerd-fonts-and-oh-my-posh-4f4393f097?source=rss-c2859e5586f3------2)
@@ -72,4 +73,4 @@
 <div align="center">
 README.md last auto generated Wed Mar 20 13:39:36 2024
 <br>
-</div>
+</div>  -->
